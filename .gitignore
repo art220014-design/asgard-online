@@ -1,0 +1,6 @@
+.admin_password
+.godot/
+build/
+godot/
+*.apk
+*.idsig
